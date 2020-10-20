@@ -17,7 +17,7 @@
 
 <p align="left">
 <a href="https://github.com/GGupzHH">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?bg_color=eea2a2,bbc1bf,57c6e1,b49fda,7ac5d8&text_color=fff&title_color=fff&username=ggupzhh&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?bg_color=fffeff,effefe,d7fffe,57c6e1&text_color=31bdc7&title_color=330867&username=ggupzhh&show_icons=true&icon_color=b490ca&hide_border=false"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GGupzHH&layout=compact&exclude_lang=java+r&theme=react" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?bg_color=fffeff,effefe,d7fffe,57c6e1&text_color=31bdc7&title_color=330867&username=ggupzhh&show_icons=true&icon_color=b490ca&layout=compact&exclude_lang=java+r&theme=react" />
 </a>
