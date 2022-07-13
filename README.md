@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <samp>
-    :wave: Hello World! I am GGupzHH.
+    :wave: Hello! I am GGupzHH.
   </samp>
 </h3>
 <h3 align="center">
