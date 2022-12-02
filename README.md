@@ -16,10 +16,18 @@
   </a>
   <a align="left" href="https://github.com/GGupzHH">
  
-  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ggupzhh&theme=nightowl"/>
+  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ggupzhh&theme=buefy"/>
     
     
 </a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggupzhh&repo=blog&theme=buefy" />
+  </a>
+  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggupzhh&repo=Vue3-Vite3-TS-Template
+  &theme=buefy" />
+  </a>
+</p>
