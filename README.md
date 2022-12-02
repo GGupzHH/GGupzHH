@@ -15,8 +15,10 @@
     
   </a>
   <a align="left" href="https://github.com/GGupzHH">
-  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?000text_color=79b8ff&title_color=2188ff&username=ggupzhh&show_icons=true&icon_color=b490ca&hide_border"/>
-  
+ 
+  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ggupzhh&theme=nightowl"/>
+    
+    
 </a>
 </p>
 
