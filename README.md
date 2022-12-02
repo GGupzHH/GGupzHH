@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <samp>
-    :wave: Hello! I am GGupzHH.
+    :wave: Hello! I am Smoothness.
   </samp>
 </h3>
 <h3 align="center">
@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/GGupzHH/blog">
+<!--   <a href="https://github.com/GGupzHH/blog">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggupzhh&repo=blog&theme=buefy" />
-  </a>
+  </a> -->
   <a href="https://github.com/GGupzHH/Vue3-Vite3-TS-Template">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ggupzhh&repo=Vue3-Vite3-TS-Template&theme=buefy" />
   </a>
